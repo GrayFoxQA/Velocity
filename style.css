@@ -9,7 +9,7 @@ body {
 }
 
 .container {
-    max-width: 970px;
+    max-width: 1470px;
     padding: 0 15px;
     margin: 0 auto;
 }
@@ -215,8 +215,13 @@ p {
     margin-top: 60px;
 }
 
+.card__img {
+    width: 100%;
+    padding-right: 10px;
+}
+
 .services .card {
-    width: 45%;
+    width: 100%;
 }
 
 .services .card img {
